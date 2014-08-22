@@ -1,6 +1,6 @@
 package require sqlite3;
 
-namespace eval ::bane-news {
+namespace eval ::bane_news {
     variable ns [namespace current]
 
     # Config start
